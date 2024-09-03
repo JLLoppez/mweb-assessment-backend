@@ -1,0 +1,315 @@
+[
+    {
+      "productCode": "FTTH-OPEN-25MB-UNC-LITE",
+      "productName": "Uncapped 50/25Mbps Fibre Lite - Openserve",
+      "productRate": 669,
+      "provider": "OpenServe"
+    },
+    {
+      "productCode": "FTTH-OPEN-10MB-UNC-STD",
+      "productName": "Uncapped 50/50Mbps Fibre - Openserve",
+      "productRate": 769,
+      "provider": "OpenServe"
+    },
+    {
+      "productCode": "FTTH-OPEN-5025MB-UNCAPPED",
+      "productName": "Uncapped 100/50Mbps Fibre Lite - Openserve",
+      "productRate": 859,
+      "provider": "OpenServe"
+    },
+    {
+      "productCode": "FTTH-OPEN-20MB-UNC-LITE",
+      "productName": "Uncapped 100/100Mbps Fibre - Openserve",
+      "productRate": 929,
+      "provider": "OpenServe"
+    },
+    {
+      "productCode": "FTTH-OPEN-50MB-UNC-LITE",
+      "productName": "Uncapped 200/100Mbps Fibre Lite - Openserve",
+      "productRate": 999,
+      "provider": "OpenServe"
+    },
+    {
+      "productCode": "FTTH-OPEN-100MB-UNC",
+      "productName": "Uncapped 200/200Mbps Fibre - Openserve",
+      "productRate": 1129,
+      "provider": "OpenServe"
+    },
+    {
+      "productCode": "FTTH-OPEN-100MB-UNC-LITE",
+      "productName": "Uncapped 300/150Mbps Fibre - Openserve",
+      "productRate": 1199,
+      "provider": "OpenServe"
+    },
+    {
+      "productCode": "FTTH-OPEN-500MB-UNC",
+      "productName": "Uncapped 500/250Mbps Fibre - Openserve",
+      "productRate": 1429,
+      "provider": "OpenServe"
+    },
+    {
+      "productCode": "FTTH-BALWIN-UNCAPPED-40_40MBPS",
+      "productName": "Uncapped 40/40Mbps - Balwin Fibre",
+      "productRate": 750,
+      "provider": "Balwin"
+    },
+    {
+      "productCode": "FTTH-BALWIN-UNCAPPED-75_75MBPS",
+      "productName": "Uncapped 75/75Mbps - Balwin Fibre",
+      "productRate": 880,
+      "provider": "Balwin"
+    },
+    {
+      "productCode": "FTTH-BALWIN-UNCAPPED-150_150MBPS",
+      "productName": "Uncapped 150/150Mbps - Balwin Fibre",
+      "productRate": 1095,
+      "provider": "Balwin"
+    },
+    {
+      "productCode": "FTTH-BALWIN-UNCAPPED-300_300MBPS",
+      "productName": "Uncapped 300/300Mbps - Balwin Fibre",
+      "productRate": 1305,
+      "provider": "Balwin"
+    },
+    {
+      "productCode": "FTTH-BALWIN-UNCAPPED-750_500MBPS",
+      "productName": "Uncapped 750/500Mbps - Balwin Fibre",
+      "productRate": 1405,
+      "provider": "Balwin"
+    },
+    {
+      "productCode": "FTTH-BALWIN-UNCAPPED-1000_500MBPS",
+      "productName": "Uncapped 1000/500Mbps - Balwin Fibre",
+      "productRate": 1925,
+      "provider": "Balwin"
+    },
+    {
+      "productCode": "FTTH-WEBCONNECT-10MB-UNC",
+      "productName": "Uncapped 20/10Mbps Fibre - Openserve WebConnect",
+      "productRate": 299,
+      "provider": "Web Connect"
+    },
+    {
+      "productCode": "FTTH-WEBCONNECT-20MB-UNC-NEW",
+      "productName": "Uncapped 40/20Mbps Fibre - Openserve Web Connect",
+      "productRate": 369,
+      "provider": "Web Connect"
+    },
+    {
+      "productCode": "FTTH-TTCONNECT-1010MB-UNCAPPED-JUNE22",
+      "productName": "30/30Mbps Uncapped Fibre  - TT Connect - New",
+      "productRate": 775,
+      "provider": "TT Connect"
+    },
+    {
+      "productCode": "FTTH-TTCONNECT-2020MB-UNCAPPED-JUNE22",
+      "productName": "50/50Mbps Uncapped Fibre  - TT Connect - New",
+      "productRate": 959,
+      "provider": "TT Connect"
+    },
+    {
+      "productCode": "FTTH-TTCONNECT-5050MB-UNCAPPED-JUNE22",
+      "productName": "100/100Mbps Uncapped Fibre  - TT Connect - New",
+      "productRate": 1085,
+      "provider": "TT Connect"
+    },
+    {
+      "productCode": "FTTH-TTCONNECT-100100MB-UNCAPPED-JUNE22",
+      "productName": "200/200Mbps UNCAPPED FIBRE  - TT CONNECT",
+      "productRate": 1269,
+      "provider": "TT Connect"
+    },
+    {
+      "productCode": "FTTH-TTCONNECT-200200MB-UNCAPPED",
+      "productName": "400/400Mbps Uncapped Fibre  - TT Connect",
+      "productRate": 1579,
+      "provider": "TT Connect"
+    },
+    {
+      "productCode": "FTTH-TTCONNECT-300300MB-UNCAPPED",
+      "productName": "525/525Mbps Uncapped Fibre  - TT Connect",
+      "productRate": 1819,
+      "provider": "TT Connect"
+    },
+    {
+      "productCode": "FTTH-TTCONNECT-500500MB-UNCAPPED",
+      "productName": "850/850Mbps Uncapped Fibre  - TT Connect",
+      "productRate": 1979,
+      "provider": "TT Connect"
+    },
+    {
+      "productCode": "FTTH-TTCONNECT-10001000MB-UNCAPPED",
+      "productName": "1Gbps Uncapped Fibre - TT Connect",
+      "productRate": 2169,
+      "provider": "TT Connect"
+    },
+    {
+      "productCode": "FTTH-CCC-UNCAPPED-10MB",
+      "productName": "30/15Mbps Uncapped Fibre - Thinkspeed",
+      "productRate": 755,
+      "provider": "Thinkspeed"
+    },
+    {
+      "productCode": "FTTH-CCC-UNCAPPED-50MB",
+      "productName": "50Mbps Uncapped Fibre - Thinkspeed",
+      "productRate": 914,
+      "provider": "Thinkspeed"
+    },
+    {
+      "productCode": "FTTH-THINKSPEED-UNCAPPED-200MB",
+      "productName": "200/100Mbps Uncapped Fibre - Thinkspeed",
+      "productRate": 1169,
+      "provider": "Thinkspeed"
+    },
+    {
+      "productCode": "FTTH-CCC-UNCAPPED-100MB",
+      "productName": "100Mbps Uncapped Fibre - Thinkspeed",
+      "productRate": 1199,
+      "provider": "Thinkspeed"
+    },
+    {
+      "productCode": "FTTH-THINKSPEED-UNCAPPED-500-250MB",
+      "productName": "500/250Mbps Uncapped Fibre - Thinkspeed",
+      "productRate": 1359,
+      "provider": "Thinkspeed"
+    },
+    {
+      "productCode": "FTTH-THINKSPEED-UNCAPPED-1000-500MB",
+      "productName": "1000/500Mbps Uncapped Fibre - Thinkspeed",
+      "productRate": 1509,
+      "provider": "Thinkspeed"
+    },
+    {
+      "productCode": "FTTH-MFN-NOVA-20MB-UNCAPPED",
+      "productName": "20Mbps Uncapped Fibre - Metrofibre Networx-Nova",
+      "productRate": 499,
+      "provider": "MFN NOVA"
+    },
+    {
+      "productCode": "FTTH-MFN-NOVA-40MB-UNCAPPED",
+      "productName": "40Mbps Uncapped Fibre - Metrofibre Networx-Nova",
+      "productRate": 569,
+      "provider": "MFN NOVA"
+    },
+    {
+      "productCode": "FTTH-MFN-NOVA-60MB-UNCAPPED",
+      "productName": "60Mbps Uncapped Fibre - Metrofibre Networx-Nova",
+      "productRate": 689,
+      "provider": "MFN NOVA"
+    },
+    {
+      "productCode": "FTTH-MFN-NOVA-100MB-UNCAPPED",
+      "productName": "100Mbps Uncapped Fibre - Metrofibre Networx-Nova",
+      "productRate": 929,
+      "provider": "MFN NOVA"
+    },
+    {
+      "productCode": "FTTH-MFN-NOVA-200MB-UNCAPPED",
+      "productName": "200Mbps Uncapped Fibre - Metrofibre Networx-Nova",
+      "productRate": 1169,
+      "provider": "MFN NOVA"
+    },
+    {
+      "productCode": "FTTH-MFN-NOVA-500MB-UNCAPPED",
+      "productName": "500Mbps Uncapped Fibre - Metrofibre Networx-Nova",
+      "productRate": 1359,
+      "provider": "MFN NOVA"
+    },
+    {
+      "productCode": "FTTH-MFN-NOVA-1000MB-UNCAPPED",
+      "productName": "1000Mbps Uncapped Fibre - Metrofibre Networx-Nova",
+      "productRate": 1845,
+      "provider": "MFN NOVA"
+    },
+    {
+      "productCode": "FTTH-AIR-100MB-UNCAPPED",
+      "productName": "100Mbps Uncapped Fibre - Air",
+      "productRate": 779,
+      "provider": "Air"
+    },
+    {
+      "productCode": "FTTH-AIR-200MB-UNCAPPED",
+      "productName": "200Mbps Uncapped Fibre - Air",
+      "productRate": 975,
+      "provider": "Air"
+    },
+    {
+      "productCode": "FTTH-AIR-500MB-UNCAPPED",
+      "productName": "500Mbps Uncapped Fibre - Air",
+      "productRate": 1359,
+      "provider": "Air"
+    },
+    {
+      "productCode": "FTTH-AIR-1000MB-UNCAPPED",
+      "productName": "1000Mbps Uncapped Fibre - Air",
+      "productRate": 1845,
+      "provider": "Air"
+    },
+    {
+      "productCode": "FTTH-CLEARACCESS-50MB-UNCAPPED",
+      "productName": "50Mbps Uncapped Fibre - ClearAccess",
+      "productRate": 899,
+      "provider": "ClearAccess"
+    },
+    {
+      "productCode": "FTTH-CLEARACCESS-100MB-UNCAPPED",
+      "productName": "100Mbps Uncapped Fibre - ClearAccess",
+      "productRate": 1095,
+      "provider": "ClearAccess"
+    },
+    {
+      "productCode": "FTTH-CLEARACCESS-200MB-UNCAPPED",
+      "productName": "200Mbps Uncapped Fibre - ClearAccess",
+      "productRate": 1265,
+      "provider": "ClearAccess"
+    },
+    {
+      "productCode": "FTTH-CLEARACCESS-500MB-UNCAPPED",
+      "productName": "500Mbps Uncapped Fibre - ClearAccess",
+      "productRate": 1425,
+      "provider": "ClearAccess"
+    },
+    {
+      "productCode": "FTTH-CLEARACCESS-1000MB-UNCAPPED",
+      "productName": "1000Mbps Uncapped Fibre - ClearAccess",
+      "productRate": 1935,
+      "provider": "ClearAccess"
+    },
+    {
+      "productCode": "FTTH-ZOOMFIBRE-20MB-UNCAPPED",
+      "productName": "20Mbps Uncapped Fibre - ZoomFibre",
+      "productRate": 369,
+      "provider": "ZoomFibre"
+    },
+    {
+      "productCode": "FTTH-ZOOMFIBRE-50MB-UNCAPPED",
+      "productName": "50Mbps Uncapped Fibre - ZoomFibre",
+      "productRate": 679,
+      "provider": "ZoomFibre"
+    },
+    {
+      "productCode": "FTTH-ZOOMFIBRE-100MB-UNCAPPED",
+      "productName": "100Mbps Uncapped Fibre - ZoomFibre",
+      "productRate": 969,
+      "provider": "ZoomFibre"
+    },
+    {
+      "productCode": "FTTH-ZOOMFIBRE-200MB-UNCAPPED",
+      "productName": "200Mbps Uncapped Fibre - ZoomFibre",
+      "productRate": 1165,
+      "provider": "ZoomFibre"
+    },
+    {
+      "productCode": "FTTH-ZOOMFIBRE-500MB-UNCAPPED",
+      "productName": "500Mbps Uncapped Fibre - ZoomFibre",
+      "productRate": 1465,
+      "provider": "ZoomFibre"
+    },
+    {
+      "productCode": "FTTH-ZOOMFIBRE-1000MB-UNCAPPED",
+      "productName": "1000Mbps Uncapped Fibre - ZoomFibre",
+      "productRate": 1895,
+      "provider": "ZoomFibre"
+    }
+  ]
+  
