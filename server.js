@@ -11,7 +11,7 @@ app.use(cors());
 const products = require('./public/products.json');
 
 const logoBaseURL = "https://www.mweb.co.za/media/images/providers";
-const logoURL = "http://localhost:5000/img";
+const logoURL = "https://mweb-assessment-backend.onrender.com/img";
 
 const providerInfo = [
   { code: 'centurycity', name: 'Century City Connect', url: `${logoBaseURL}/provider-century.png` },
